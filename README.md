@@ -10,7 +10,7 @@
 - Current Working Technologies - Artificial Intelligence, Machine Learning, Data Science, Deep Learning
 - 🌱 I’m currently learning Machine Learning, Deep Learning, BlockChain
 - 💞️ I’m looking to collaborate on a problem that has great impact to the real world.
-- Official Hackahthon Profile Github Profile Username:  **hacknarog** <br>
+- Official Hackahthon Profile Github Profile Username: [**hacknarog**](https://github.com/hacknarog)
 ____________________________________________________________________________________________________________________________________________________________________
 &emsp;&emsp; <a href="https://www.linkedin.com/in/aakash-nair/"><img src="linkedin_logo.png" width="30"/></a>
              <a href="https://www.flickr.com/people/nair_aakash/"><img src="flickr_logo.png" width="30"/></a>
