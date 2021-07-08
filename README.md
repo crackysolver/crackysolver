@@ -9,9 +9,10 @@
 - Fav Tech 💻 *Artificial Intelligence, Machine Learning, Data Science, Deep Learning, Internet of Things, Cyber Security, Cloud Computing, Robotics, App Deveopment, Quantum Computing*
 - Current Working Technologies - Artificial Intelligence, Machine Learning, Data Science, Deep Learning
 - 🌱 I’m currently learning Machine Learning, Deep Learning, BlockChain
-  - 💞️ I’m looking to collaborate on a problem that has great impact to the real world.
-- Official Hackahthon Profile Github Profile Username: [**Hacknarog**](https://github.com/hacknarog)<br>
-__________________________________________   [**Hackionaire**](https://github.com/Hackingknight)
+- 💞️ I’m looking to collaborate on a problem that has great impact to the real world.
+- Official Hackahthon Profile Github Profile : 
+     1. [**Hacknarog**](https://github.com/hacknarog)
+     2. [**Hackionaire**](https://github.com/Hackingknight)  
 - Official Competitive Coding GitHub Profile: [**CodePlayGround**](https://github.com/nairthecoder)
 ____________________________________________________________________________________________________________________________________________________________________
 &emsp;&emsp; <a href="https://www.linkedin.com/in/aakash-nair/"><img src="linkedin_logo.png" width="30"/></a>
