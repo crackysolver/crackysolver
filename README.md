@@ -13,7 +13,7 @@
 - Official Hackahthon Profile Github Profile : 
      1. [**Hacknarog**](https://github.com/hacknarog)
      2. [**Hackionaire**](https://github.com/Hackingknight)  
-- Official Competitive Coding GitHub Profile: [**CodePlayGround**](https://github.com/nairthecoder)
+     3. [**CodePlayGround**](https://github.com/nairthecoder)
 ____________________________________________________________________________________________________________________________________________________________________
 &emsp;&emsp; <a href="https://www.linkedin.com/in/aakash-nair/"><img src="linkedin_logo.png" width="30"/></a>
              <a href="https://www.flickr.com/people/nair_aakash/"><img src="flickr_logo.png" width="30"/></a>
