@@ -2,7 +2,7 @@
 <!--
 **crackysolver/crackysolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # My official Coding Playground 
-- 👋 Hi, I’m **Aakash A Nair**, this is my official GitHub Developer Account My Personal Projects Repos). 
+- 👋 Hi, I’m **Aakash A Nair**, this is my official GitHub Developer Account My Personal Projects Repos. 
 - 👀 I’m interested in learning new technology, solving math problems, solvig mysteries, lookout for a new problem 
 - 💻 I am interested in **Hackathons, Competitive coding, Animation, Graphic Designing**
 - My favorite Programming languages are C, C++, Java, Python, Go
