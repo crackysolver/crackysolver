@@ -2,7 +2,7 @@
 <!--
 **crackysolver/crackysolver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # My official Coding Playground 
-- 👋 Hi, I’m **Aakash A Nair**, this is my official GitHub Developer Account My Personal Projects Repos. 
+- 👋 Hi, I’m **Aakash A Nair**, this is my official GitHub Developer Account of My Personal Projects Repos. 
 - 👀 I’m interested in learning new technology, solving math problems, solvig mysteries, lookout for a new problem 
 - 💻 I am interested in **Hackathons, Competitive coding, Animation, Graphic Designing**
 - My favorite Programming languages are C, C++, Java, Python, Go
@@ -11,10 +11,11 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning, BlockChain
 - 💞️ I’m looking to collaborate on a problem that has great impact to the real world.
 - Official Hackahthon Profile Github Profile : 
-     1. [**Hacknarog**](https://github.com/hacknarog)
-     2. [**Hackionaire**](https://github.com/Hackingknight)  
-     3. [**CodePlayGround**](https://github.com/nairthecoder)
+     1. [**Hacknarog**](https://github.com/hacknarog) - Short Term Hackathon 
+     2. [**Hackionaire**](https://github.com/Hackingknight) - Long Term Hackathon
+     3. [**CodePlayGround**](https://github.com/nairthecoder) - AI Repo
 ____________________________________________________________________________________________________________________________________________________________________
 &emsp;&emsp; <a href="https://www.linkedin.com/in/aakash-nair/"><img src="linkedin_logo.png" width="30"/></a>
+<br><br>
             
 ____________________________________________________________________________________________________________________________________________________________________
