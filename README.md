@@ -15,7 +15,7 @@
      2. [**Hackionaire**](https://github.com/Hackingknight) - Long Term Hackathon
      3. [**CodePlayGround**](https://github.com/nairthecoder) - AI Repo
 ____________________________________________________________________________________________________________________________________________________________________
-&emsp;&emsp; <a href="https://www.linkedin.com/in/aakash-nair/"><img src="linkedin_logo.png" width="30"/></a>
+<a href="https://www.linkedin.com/in/aakash-nair/"><img src="linkedin_logo.png" width="30"/></a>
 <br><br>
-            
+<a href="mailto:aakashnair05@gmail.com"><img src="gmail.png" width="30"></a>           
 ____________________________________________________________________________________________________________________________________________________________________
