@@ -4,7 +4,7 @@
 # My official Coding Playground 
 - 👋 Hi, I’m **Aakash A Nair**, this is my official GitHub Developer Account of My Personal Projects Repos. 
 - 👀 I’m interested in learning new technology, solving math problems, solvig mysteries, lookout for a new problem 
-- 💻 I am interested in **Hackathons, Competitive coding, Animation, Graphic Designing**
+- 💻 I am interested in **Hackathons, Competitive coding, Datathons.**
 - My favorite Programming languages are C, C++, Java, Python, Go
 - Fav Tech 💻 *Artificial Intelligence, Machine Learning, Data Science, Deep Learning, Internet of Things, Cyber Security, Cloud Computing, Robotics, App Deveopment, Quantum Computing*
 - Current Working Technologies - Artificial Intelligence, Machine Learning, Data Science, Deep Learning
